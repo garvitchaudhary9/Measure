@@ -11,4 +11,4 @@ An AR iOS App measure distance between 2 Points using Euclid Distance Formula.
 
 ![SS](https://github.com/garvitchaudhary9/Measure/blob/main/Measure/Screenshots/SS.PNG)
 
-App is tested on iPad(5th Generation and works well!.
+App is tested on iPad(5th Generation) and works well!.
